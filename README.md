@@ -1,3 +1,2 @@
 # DemoProj
-This is my readme
-the program is about checking numbers.
+This is my readme; program is about checking numbers.
